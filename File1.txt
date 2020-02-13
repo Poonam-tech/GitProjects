@@ -4,6 +4,9 @@ Welcome to Git...
 
 Change : Login feature
 
-Change: Bug Fix
+Change : Bug Fix
 
 Change : From Team mate from Remote Server for Logout
+
+Change : Bug2 Fix
+
