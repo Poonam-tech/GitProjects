@@ -2,11 +2,12 @@ Hello World!!!
 
 Welcome to Git...
 
-Change : Login feature
+Change 1: Login feature
 
-Change : Bug Fix
+Change 2: Bug Fix
 
-Change : From Team mate from Remote Server for Logout
+Change 3: From Team mate from Remote Server for Logout
 
-Change : Bug2 Fix
+Change 4: Bug2 Fix
 
+Change 5: to test Rebase, change from team mate
